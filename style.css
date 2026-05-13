@@ -1,6 +1,50 @@
-style.css
+#home{
 
-#home {
 
-	Background-color: #C8F3FA;
+		background-color: #C8F3FA;
+		
+	}
+
+	.topnav {
+   background-color: #333333;
+   overflow: hidden;
 }
+
+.topnav a {
+   float: left;
+   color: #FAFAFA;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: #60A8DB;
+  color: ;
+}
+
+.topnav a.active {
+   background-color: #60A8DB;
+   color: white;
+}
+
+#ChocolateChipCookieDough{
+
+
+   Background-color: #C6E5F7;
+}
+
+#CookiesAndCream{
+
+   Background-color: #C5F0EB;
+}
+#VanillaRecipe{
+
+   Background-color: #D3C5F0;
+}
+
+
+
+
+
