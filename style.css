@@ -5,7 +5,40 @@
 		
 	}
 
-	.topnav {
+
+
+#ChocolateChipCookieDough{
+
+
+   Background-color: #C6E5F7;
+}
+
+#CookiesAndCream{
+
+   Background-color: #C5F0EB;
+}
+#VanillaRecipe{
+
+   Background-color: #D3C5F0;
+}
+
+
+
+a {
+  color: #020005;
+}
+
+
+a:hover {
+  color: white;
+}
+
+
+a:visited {
+  color: #020005;
+}
+
+.topnav {
    background-color: #333333;
    overflow: hidden;
 }
@@ -28,23 +61,6 @@
    background-color: #60A8DB;
    color: white;
 }
-
-#ChocolateChipCookieDough{
-
-
-   Background-color: #C6E5F7;
-}
-
-#CookiesAndCream{
-
-   Background-color: #C5F0EB;
-}
-#VanillaRecipe{
-
-   Background-color: #D3C5F0;
-}
-
-
 
 
 
